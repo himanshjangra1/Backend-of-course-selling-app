@@ -1,5 +1,7 @@
 ## Create a course selling app
 
+(This is inspired from Harkirat Singh cohort 3)
+
 -   Initialize a new Node.js project
 -   Add Express, jsonwebtoken, mongoose to it as a dependency
 -   Create index.js
